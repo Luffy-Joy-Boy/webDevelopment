@@ -1,0 +1,11 @@
+
+.div1{
+    background-color: #da2424;
+}
+.div2{
+    background-color: #298ada;
+}
+.grid1{
+    display: grid;
+    grid-template-columns: 100px 1fr;
+}

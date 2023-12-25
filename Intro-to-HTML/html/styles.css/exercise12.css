@@ -1,0 +1,52 @@
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.image1{
+    display: inline-block;
+    vertical-align: middle;
+}
+.title1{
+    margin-bottom: 18px;
+}
+.author1{
+    margin-bottom: 6px;
+    color: rgba(183, 215, 221, 0.973);
+}
+.stats1{
+    color: rgba(183, 215, 221, 0.973) ;
+}
+.luffy{
+    width: 200px;
+    height: 200px;
+}
+.sub1{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+
+}
+.main1{
+    display: block;
+    width: 600px;
+}
+
+.zoro{
+    width: 200px;
+    height: 200px;
+}
+.image2{
+    display: inline-block;
+    vertical-align: middle;
+}
+.sub2{
+    display: inline-block;
+    vertical-align: middle;
+    width: 200px;
+}
+.main2{
+    display: block;
+    width: 600px;
+}

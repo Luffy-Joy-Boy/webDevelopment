@@ -1,0 +1,22 @@
+.m1{
+    
+    height: 60px;
+    width: 60px;
+    vertical-align: middle;
+    border-radius: 100px;
+}
+
+.m2{
+   padding-right: 16px;
+   border-radius: 9px;
+   border: none;
+   vertical-align: middle;
+}
+.tweet{
+    background-color: rgb(198, 153, 240);
+    border: none;
+    color: white;
+    padding: 9px 9px;
+    vertical-align: middle;
+    border-radius: 20px;
+}

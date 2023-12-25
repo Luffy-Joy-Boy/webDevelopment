@@ -1,0 +1,21 @@
+.n3{
+    color: blueviolet;
+    width: 400px;
+}
+.n2{
+    color: brown;
+    width: 400px;
+    padding-top: 10px;
+    
+}
+.n1{
+    color: brown;
+    width: 200px;
+}
+.join{
+    border: none;
+    border-radius: 7px;
+    padding:10px 40px;
+    width: 400px;
+    background-color: rgb(163, 163, 231);
+}

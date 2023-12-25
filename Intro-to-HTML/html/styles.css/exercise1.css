@@ -1,0 +1,32 @@
+.luffy{
+    width: 150px;
+    height: 200px;
+    border-radius: 900px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.image{
+    display: inline-block;
+    vertical-align: middle;
+}
+.text{
+    display: inline-block;
+    margin-left: 50px;
+    vertical-align: middle;
+}
+.follow{
+    
+    padding: 10px 20px;
+    border: none;
+    background-color: blueviolet;
+   color: aliceblue;
+   border-radius: 16px;
+   font-weight: 500;
+   
+   
+}
+.follow1{
+    display: inline-block;
+margin-left: 200px;
+vertical-align: middle;
+}

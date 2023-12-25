@@ -1,0 +1,22 @@
+.zoro{
+    width: 200px;
+    height: 200px;
+    border-radius:100px;
+    
+}
+.Search1{
+    border-radius: 3px;
+    border-width: 2px;
+    border-color: black;
+    padding: 4px 4px;
+    margin-bottom: 30px;
+}
+.luffy{
+    padding-right: 10px;
+    width: 300px;
+    padding-top: 12px;
+    padding-bottom:10px;
+    border-radius: 27px;
+    border: none;
+    box-shadow: 0 1px 7px rgba(196, 207, 31, 0.25);
+}
